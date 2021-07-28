@@ -1,0 +1,1 @@
+window.alert('Eu não sou o pedro')
